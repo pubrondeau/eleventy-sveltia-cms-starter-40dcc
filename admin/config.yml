@@ -18,7 +18,7 @@ media_libraries:
   cloudinary:
     config:
       cloud_name: JEKIFE
-      api_key: qlqk7y0nRqcqx41BlgtuoK_0uCU
+      api_key: 354112123138113
 
 # The CMS collections and their fields
 collections:
