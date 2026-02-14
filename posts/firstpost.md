@@ -1,7 +1,7 @@
 ---
 title: This is the first example post
 date: 2019-01-03T00:00
-author: John Doe
+author: Emmanuel
 summary: Why contemplating our mortality can increase customer success by up to 500%
 tags:
   - tech
@@ -12,6 +12,7 @@ image: https://images.unsplash.com/photo-1680238461708-42bab9b00887?crop=entropy
 imageAltText: A city at dusk
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
 ---
+
 Leverage agile blockchain frameworks to provide a robust blockchain synopsis for high level blockchain overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 ## H2 title
@@ -24,7 +25,8 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 #### H4 and some code
 
-```text/2-3
+```text
+/2-3
 // this is a command
 function myCommand() {
 	let counter = 0;
