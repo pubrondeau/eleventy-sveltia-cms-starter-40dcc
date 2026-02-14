@@ -29,7 +29,7 @@ summary: |-
   Je kife bricks ou via le code: EMMRON41
 tags:
   - post
-image: https://jekife.netlify.app/assets/img/Opportunit%C3%A9_Bricks.png
+image: https://res.cloudinary.com/jekife/image/upload/v1771082386/Opportunit%C3%A9_Bricks_hus31l.png
 imageAltText: opportunité
 ---
 
