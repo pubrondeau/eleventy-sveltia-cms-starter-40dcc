@@ -17,8 +17,8 @@ media_folder: "assets/img"
 media_libraries:
   cloudinary:
     config:
-      cloud_name: YOUR_CLOUD_NAME
-      api_key: YOUR_API_KEY
+      cloud_name: JEKIFE
+      api_key: qlqk7y0nRqcqx41BlgtuoK_0uCU
 
 # The CMS collections and their fields
 collections:
