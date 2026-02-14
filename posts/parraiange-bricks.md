@@ -1,5 +1,5 @@
 ---
-title: Parraiange bricks
+title: Parrainage bricks
 date: 2026-02-14T14:15:00
 author: Emmanuel
 summary: |-
