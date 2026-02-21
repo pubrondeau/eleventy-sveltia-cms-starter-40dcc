@@ -24,13 +24,13 @@ Bricks vous offre le meilleur ! Avoir des revenus immobilier sans se ruiner et s
 
  Société installée à Montpellier, recrute 100 personnes en FRANCE.
 
-    Tony Parker a investit 2 millions d’euros dans Bricks
+Tony Parker a investit 2 millions d’euros dans Bricks.
 
 Vous avez des moyens limités mais vous voulez investir dans l’immobilier. BRICKS est fait pour vous. Vous n’avez rien à gérer, BRICKS s’occupe de tout. A partir de 10€ la part=brique ( “bricks”) vous pouvez vous constituer un patrimoine et des revenus mensuels (loyers). En plus des loyers, vous profitez de l’augmentation des prix de l’immobilier car vos BRICKS valent plus cher. Un bon moyen de lutter contre l’inflation.
 
 Il y a de nombreux projets dans toute la FRANCE. peut être aller-vous en trouver un à coté de chez vous! Il est possible de revendre ses parts directement sur la plateforme (marketplace) avec quasi toujours un gain de l’ordre de 10%.
 
-Coté perso : 95€ de bénéfice dont 38 euros de loyers perçus en achetant/revendant des parts. il faut flairer les bricks les moins chères et les plus demandées.
+Coté perso : 180€ de loyers mensuels perçus.
 
 N’hésitez pas à me contacter et au plaisir de vous conseiller, Lien parrainage : [https://app.bricks.co/sign-up/EMMRON41](https://app.bricks.co/sign-up/EMMRON41)
 
