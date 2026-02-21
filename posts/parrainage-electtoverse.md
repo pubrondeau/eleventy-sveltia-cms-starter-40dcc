@@ -6,7 +6,7 @@ summary: Recharger a prix réduit votre véhicule électrique.
 tags:
   - Véhicule électrique
   - Recharge électrique
-image: https://res.cloudinary.com/jekife/image/upload/v1649856786/bricks_t37jox.jpg
+image: https://res.cloudinary.com/jekife/image/upload/v1771690029/IMG_20260221_170625_hofk7z.jpg
 imageAltText: https://electroverse.com/sign-up/magic?referralCode=stone-gaur-13474
 ---
 
@@ -23,7 +23,6 @@ Si vous roulez en électrique (ou allez bientôt passer le cap), je peux vous pa
 📱 Une seule application pour tout gérer facilement
 
 C’est simple, rapide et pratique pour recharger partout.
-
 
 📲 Téléchargez l’application Electroverse et profitez de l’offre dès votre première recharge.
 
