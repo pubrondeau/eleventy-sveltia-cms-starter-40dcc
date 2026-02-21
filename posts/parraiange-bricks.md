@@ -14,21 +14,15 @@ investir dans l’immobilier a partir de 10€. Bricks vous offre le meilleur, a
 
 [![Bricks](/assets/img/Opportunité_Bricks.png "bricks")](https://app.bricks.co/sign-up/EMMRON41)
 
-Bricks vous offre le meilleur ! Avoir des revenus immobilier sans se ruiner et sans emprunter. Même Tony Parker a investit dans Bricks
+Bricks vous offre le meilleur ! Avoir des revenus immobilier sans se ruiner et sans emprunter. Même Tony Parker a investit dans Bricks.
 
 1 % reversé de vos investissements sur les projets ouverts à souscription pour les 3 premiers mois.
 
 [Je kiffe Bricks](https://app.bricks.co/sign-up/EMMRON41) ou via le code: EMMRON41
 
-    30 000 investisseurs font confiance à BRICKS.
+ En 2025, Bricks a enregistré 176 millions d'euros de volume de financement, soit une progression de plus de 90 % par rapport à 2024. La plateforme compte désormais 674 000 membres inscrits et a reversé aux investisseurs plus de 49 millions d'euros entre capital remboursé (36 M€) et intérêts versés (12 M€).
 
-    300 immeubles financés
-
-    400M€ financés par la communauté
-
-    note : 4,1 / 5 sur Trust Pilot pour 1169 avis.
-
-    société installée à Montpellier, recrute 100 personnes en FRANCE.
+ Société installée à Montpellier, recrute 100 personnes en FRANCE.
 
     Tony Parker a investit 2 millions d’euros dans Bricks
 
