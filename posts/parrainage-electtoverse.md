@@ -38,6 +38,6 @@ Des tarifs avantageux en utilisant le réseau izivia d'EDF entre 0.3€ et 0,35�
 
 Exemple de cartes des bornes izivia :
 
-[![parrainage Electroverse](https://res.cloudinary.com/jekife/image/upload/v1771690029/IMG_20260221_170625_hofk7z.jpg "parrainage Electroverse")](https://electroverse.com/sign-up/magic?referralCode=stone-gaur-13474)
+[![parrainage Electroverse](https://res.cloudinary.com/jekife/image/upload/v1771703630/electroverse_parrainage_jekife_f5bm3a.jpg "parrainage Electroverse")](https://electroverse.com/sign-up/magic?referralCode=stone-gaur-13474)
 
 Demander la carte RFID electroverse , elle est gratuite et permet de remplacer votre carte bancaire.
