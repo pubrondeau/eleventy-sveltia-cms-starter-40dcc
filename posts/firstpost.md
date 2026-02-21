@@ -4,41 +4,28 @@ date: 2019-01-03T00:00
 author: Emmanuel
 summary: Choisir une banque en ligne digne de confiance, qualité de service irréprochable, tarifs tout à zéro.
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - Banque
+  - Carte bancaire
 image: https://res.cloudinary.com/jekife/image/upload/v1643706415/fortuneo-carte-mastercard_wvbjjx.jpg
 imageAltText: carte gold MasterCard  fortuneo
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
 ---
 
-Leverage agile blockchain frameworks to provide a robust blockchain synopsis for high level blockchain overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Fortuneo vous offre le meilleur !
 
-## H2 title
+Auparavant, j’étais chez ING mais ING ne va bientôt plus faire de compte courant en FRANCE. J’ai choisi FORTUNEO, pour rester chez une banque en ligne, et en plus une banque francaise cette fois ci et bretonne. :-)
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Je suis très content de cette banque. L’ouverture du compte courant personnel et l’obtention de la carte Gold Mastercard ont été très rapide. J’ai pu choisir mon code de carte bancaire, plutôt sympa tout de même. Ce que j’apprécie est le paiement en ligne par carte virtuelle.
 
-### H3 title
+Il s’agit d’une banque qui ne me coûte rien. Au contraire, elle me rapporte, depuis que je suis client, j’ai déjà récupéré 150€ de prime d’ouverture d’un compte courant avec carte.
+Je vais domicilier mes revenus et transférer mes prélèvements et vais donc récupérer 100€ en bons d’achat pour 5 opérations transférées.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+code parrain fotuneo à utiliser : 13112908
 
-#### H4 and some code
+Je reverse 80% de ma prime parrain soit :\
 
-```text
-/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### H5 and a list
-
-- List item 1
-- List item 2
-- List item 3
-- List item 4
+    88€ (sur 110 de ma prime parrain fortuneo) en ce moment pour une Gold CB Mastercard\
+    40€ (sur 50 de ma prime parrain fortuneo) pour une carte Fosfo CB Mastercard
+    par virement.\
+    96€ (sur 120 de ma prime parrain fortuneo) pour une ouverture de compte bourse (compte-titres ordinaire, PEA ou PEA-PME)\
+    96€ (sur 120 de ma prime parrain fortuneo) pour une ouverture d’une assurance-Vie.
