@@ -28,6 +28,8 @@ C’est simple, rapide et pratique pour recharger partout.
 
 [Je kife Electroverse](https://electroverse.com/sign-up/magic?referralCode=stone-gaur-13474) aussi.
 
+[![parrainage Electroverse ](https://res.cloudinary.com/jekife/image/upload/v1771693021/electroverse%20parrainage.jpg "parrainage Electroverse ")](https://electroverse.com/sign-up/magic?referralCode=stone-gaur-13474)
+
 Des tarifs avantageux en utilisant le réseau izivia d'EDF entre 0.3€ et 0,35€ le kWh sans abonnement.
 
 Exemple de cartes des bornes izivia :
