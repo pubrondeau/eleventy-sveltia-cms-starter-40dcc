@@ -1,6 +1,6 @@
 ---
 title: Parrainage bricks
-date: 2026-02-14T14:15:00
+date: 2026-02-21T15:45:00
 author: Emmanuel
 summary: Parrainage Bricks, 1% reversé au filleul
 tags:
@@ -16,9 +16,9 @@ investir dans l’immobilier a partir de 10€. Bricks vous offre le meilleur, a
 
 Bricks vous offre le meilleur ! Avoir des revenus immobilier sans se ruiner et sans emprunter. Même Tony Parker a investit dans Bricks
 
-1 % reversé de vos investissements sur les projets ouverts à souscription pour les 3 premiers mois. 
+1 % reversé de vos investissements sur les projets ouverts à souscription pour les 3 premiers mois.
 
-Je kife bricks ou via le code: EMMRON41
+[Je kiffe Bricks](https://app.bricks.co/sign-up/EMMRON41) ou via le code: EMMRON41
 
     30 000 investisseurs font confiance à BRICKS.
 
