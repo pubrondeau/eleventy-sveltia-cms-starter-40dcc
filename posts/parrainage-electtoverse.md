@@ -2,7 +2,7 @@
 title: Parrainage Electroverse
 date: 2026-02-21T16:30:00
 author: Emmanuel
-summary: Recharger a prix réduit votre véhicule électrique.
+summary: Recharger a prix réduit votre véhicule électrique lors de vos voyages.
 tags:
   - Véhicule électrique
   - Recharge électrique
@@ -10,7 +10,7 @@ image: https://res.cloudinary.com/jekife/image/upload/v1771690029/IMG_20260221_1
 imageAltText: https://electroverse.com/sign-up/magic?referralCode=stone-gaur-13474
 ---
 
-🚗 Je parraine sur Electroverse ! 🔋
+🚗 Je kife et parraine Electroverse ! 🔋
 
 J’utilise déjà Electroverse pour recharger ma voiture électrique et j’en suis très satisfait 👍
 
@@ -27,3 +27,7 @@ C’est simple, rapide et pratique pour recharger partout.
 📲 Téléchargez l’application Electroverse et profitez de l’offre dès votre première recharge.
 
 [Je kife Electroverse](https://electroverse.com/sign-up/magic?referralCode=stone-gaur-13474) aussi.
+
+Des tarifs avantageux en utilisant le réseau izivia d'EDF entre 0.3€ et 0,35€ le kWh sans abonnement.
+
+Demander la carte RFID electroverse , elle est gratuite et permet de remplacer votre carte bancaire.
