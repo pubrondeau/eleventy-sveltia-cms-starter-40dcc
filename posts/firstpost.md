@@ -1,6 +1,6 @@
 ---
 title: parrainage fortuneo
-date: 2019-01-03T00:00
+date: 2026-02-21T15:39:00
 author: Emmanuel
 summary: Choisir une banque en ligne digne de confiance, qualité de service irréprochable, tarifs tout à zéro.
 tags:
