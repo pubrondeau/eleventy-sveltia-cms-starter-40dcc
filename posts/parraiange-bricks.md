@@ -20,9 +20,9 @@ Bricks vous offre le meilleur ! Avoir des revenus immobilier sans se ruiner et s
 
 [Je kiffe Bricks](https://app.bricks.co/sign-up/EMMRON41) ou via le code: EMMRON41
 
- En 2025, Bricks a enregistré 176 millions d'euros de volume de financement, soit une progression de plus de 90 % par rapport à 2024. La plateforme compte désormais 674 000 membres inscrits et a reversé aux investisseurs plus de 49 millions d'euros entre capital remboursé (36 M€) et intérêts versés (12 M€).
+ En 2025, Bricks a enregistré** 176 **millions d'euros de volume de financement, soit une progression de plus de 90 % par rapport à 2024. La plateforme compte désormais** 674 000 **membres inscrits et a reversé aux investisseurs plus de 49 millions d'euros entre capital remboursé (36 M€) et intérêts versés (12 M€).
 
- Société installée à Montpellier, recrute 100 personnes en FRANCE.
+ Société installée à Montpellier, plus de 100 salariés en FRANCE.
 
 Tony Parker a investit 2 millions d’euros dans Bricks.
 
@@ -34,4 +34,4 @@ Coté perso : 180€ de loyers mensuels perçus.
 
 N’hésitez pas à me contacter et au plaisir de vous conseiller, Lien parrainage : [https://app.bricks.co/sign-up/EMMRON41](https://app.bricks.co/sign-up/EMMRON41)
 
-Je kife bricks ou via le code: **EMMRON41**
+[Je kiffe Bricks](https://app.bricks.co/sign-up/EMMRON41) ou via le code: **EMMRON41**
