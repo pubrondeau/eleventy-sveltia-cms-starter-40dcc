@@ -6,7 +6,7 @@ summary: Choisir une banque en ligne digne de confiance, qualité de service irr
 tags:
   - Banque
   - Carte bancaire
-image: https://res.cloudinary.com/jekife/image/upload/v1643706415/fortuneo-carte-mastercard_wvbjjx.jpg
+image: https://res.cloudinary.com/jekife/image/upload/v1771712245/fortuneo_parrainage_jekife_yuaqc9.jpg
 imageAltText: carte gold MasterCard  fortuneo
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
 ---
