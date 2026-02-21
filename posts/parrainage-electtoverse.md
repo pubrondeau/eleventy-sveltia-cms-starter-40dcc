@@ -16,11 +16,15 @@ J’utilise déjà Electroverse pour recharger ma voiture électrique et j’en 
 
 Si vous roulez en électrique (ou allez bientôt passer le cap), je peux vous parrainer !
 
+![](https://res.cloudinary.com/jekife/image/upload/v1771702680/electroverse_ligne1_cu6qsy.png)
+
 🎁 Vous bénéficiez d’un bonus de bienvenue de 5€,
 💸 Et moi aussi après votre première recharge.
 
 🌍 Accès à des milliers de bornes en Europe
-📱 Une seule application pour tout gérer facilement
+📱 Une seule application pour tout gérer facilement.
+
+![](https://res.cloudinary.com/jekife/image/upload/v1771702653/electroverse_ligne2_hqqo9c.png)
 
 C’est simple, rapide et pratique pour recharger partout.
 
