@@ -1,7 +1,7 @@
 ---
 title: Blog
 date: 2026-02-21T21:01:00
-permalink: /
+
 eleventyNavigation:
   key: blog
   title: Blog
