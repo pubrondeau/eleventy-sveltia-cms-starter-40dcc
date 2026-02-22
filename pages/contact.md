@@ -5,10 +5,10 @@ permalink: /contact/index.html
 eleventyNavigation:
   key: contact
   title: Contact
-  order: 1
+  order: 2
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
-section: contact
 layout: layouts/contact.njk
+section: contact
 ---
 
 Je suis à votre écoute, alors n’hésitez pas.
