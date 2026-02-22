@@ -3,9 +3,9 @@ title: Blog
 date: 2026-02-21T21:01:00
 permalink: /
 eleventyNavigation:
-  key: blog
+  key: home
   title: Blog
-  order: 1
+  order: 0
 description: A sample Blog index listing all posts.
 layout: layouts/blog.njk
 ---
