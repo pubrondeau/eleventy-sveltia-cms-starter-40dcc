@@ -5,7 +5,7 @@ permalink: /
 eleventyNavigation:
   key: home
   title: Home
-  order: 0
+  order: 1
 layout: layouts/page.njk
 ---
 
