@@ -1,11 +1,10 @@
 ---
-title: home
+title: Home
 date: 2026-02-22T19:01:00
-permalink: /
 eleventyNavigation:
-  key: home
+  key: Home
   title: Home
-  order: 0
+  order: 1
 ---
 
 Test
