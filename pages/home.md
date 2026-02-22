@@ -1,9 +1,9 @@
 ---
-title: Home
+title: home
 date: 2026-02-22T19:01:00
 permalink: /
 eleventyNavigation:
-  key: Home
+  key: home
   title: Home
   order: 0
 ---
