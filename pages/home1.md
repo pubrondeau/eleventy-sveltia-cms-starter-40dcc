@@ -4,7 +4,7 @@ date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: home
-  title: Home
+  title: Home2
   order: 1
 layout: layouts/page.njk
 ---
