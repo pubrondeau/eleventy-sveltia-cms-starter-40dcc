@@ -3,7 +3,7 @@ title: Eleventy Sveltia CMS Starter
 date: 2016-01-01T00:00:00.000Z
 
 eleventyNavigation:
-  key: home
+  key: home2
   title: Home2
   order: 3
 layout: layouts/page.njk
