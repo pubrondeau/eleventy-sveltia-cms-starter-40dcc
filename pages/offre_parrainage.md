@@ -10,6 +10,4 @@ description: A sample Blog index listing all posts.
 layout: layouts/blog.njk
 ---
 
-This is the blog index page, listing all posts by all [authors](/authors/).
-
-This text can be edited at: `pages/blog.md`
+lVous trouverez ici les meilleures offres de parrainage testées et validées par ces [ma chère et tendre et moi](https://jekife.netlify.app/authors/)
