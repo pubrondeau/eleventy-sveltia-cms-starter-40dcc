@@ -1,5 +1,5 @@
 ---
-title: parrainage gaz de Bordeaux
+title: parrainage Gaz de Bordeaux
 date: 2026-03-01T15:42:00
 author: Emmanuel
 summary: Et oui gdb vend enfin de l'énergie
