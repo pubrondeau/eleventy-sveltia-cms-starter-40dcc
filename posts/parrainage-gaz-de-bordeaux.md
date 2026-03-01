@@ -17,6 +17,8 @@ Avec Gaz de Bordeaux, profite d’une électricité à -15% par rapport au tarif
 
 💡 Pourquoi choisir Gaz de Bordeaux ?
 ✔️ -15% sur le prix du kWh par rapport au tarif réglementé
+
+
 ✔️ Fournisseur français reconnu
 ✔️ Service client de qualité
 ✔️ Énergie simple, sans prise de tête
