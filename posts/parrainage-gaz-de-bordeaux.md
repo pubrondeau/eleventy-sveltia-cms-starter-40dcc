@@ -13,12 +13,13 @@ description: This is a sample meta description. If one is not present in your pa
 Passe à l’électricité moins chère avec Gaz de Bordeaux ! ⚡
 
 Tu veux réduire ta facture d’électricité sans changer tes habitudes ?
-Avec Gaz de Bordeaux, profite d’une électricité à -15% par rapport au tarif réglementé d’EDF !
 
 💡 Pourquoi choisir Gaz de Bordeaux ?
 ✔️ -16% sur le prix du kWh par rapport au tarif réglementé
 
-L'offre novafix élec heures creuses est la plus intéressante. Les pris sont bloqués 2 ans.
+L'offre novafix élec heures creuses est la plus intéressante. Les prix sont bloqués 2 ans.
+
+![tarif gaz de Bordeaux ](https://res.cloudinary.com/jekife/image/upload/v1772384954/tarif_gaz_de_bordeaux.jpg "tarif gaz de Bordeaux ")
 
 Pour mon cas, je vais gagner plus de 200€ d'économie en rechargeant ma voiture électrique pendant les heures creuses a moins de 14 centimes le kWh contre 16 pour edf. La journée, il est a a moins de 18 centimes contre 21 chez EDF.
 
