@@ -23,7 +23,7 @@ Avec Gaz de Bordeaux, profite d’une électricité à -15% par rapport au tarif
 
 Le tarif réglementé est actuellement proposé par EDF, alors pourquoi payer plus cher pour la même électricité ?
 
-🎁 En plus, je te parraine !
+🎁 En plus, je te parraine et tu gagnes 20€ !
 Grâce au parrainage, on bénéficie tous les deux d’un bonus 💸
 
 👉 Contacte-moi en privé pour profiter de l’offre et faire des économies dès maintenant !
