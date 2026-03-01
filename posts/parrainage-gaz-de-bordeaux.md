@@ -27,7 +27,6 @@ Pour mon cas, je vais gagner plus de 150€ d'économie par an en rechargeant ma
 
 ✔️ Service client de qualité
 
-
 ✔️ Énergie simple, sans prise de tête
 
 Le tarif réglementé est actuellement proposé par EDF, alors pourquoi payer plus cher pour la même électricité ?
