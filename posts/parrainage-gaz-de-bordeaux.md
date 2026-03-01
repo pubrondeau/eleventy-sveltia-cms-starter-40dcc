@@ -32,4 +32,4 @@ Le tarif réglementé est actuellement proposé par EDF, alors pourquoi payer pl
 🎁 En plus, je te parraine et tu gagnes 20€ !
 Grâce au parrainage, on bénéficie tous les deux d’un bonus 💸
 
-👉 Contacte-moi en privé pour profiter de l’offre et faire des économies dès maintenant !
+👉 Je kife Gaz de Bordeaux
