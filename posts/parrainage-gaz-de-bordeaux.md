@@ -18,7 +18,7 @@ Avec Gaz de Bordeaux, profite d’une électricité à -15% par rapport au tarif
 💡 Pourquoi choisir Gaz de Bordeaux ?
 ✔️ -16% sur le prix du kWh par rapport au tarif réglementé
 
-Pour mon cas, je vais gagner plus de 200€ d'économie en rechargeant ma voiture électrique pendant les heures creuses a moins de 14 centimes le kWh contre 16 pour edf. La journée, il est a a moins dee 18 centimes contre 21 chez EDF.
+Pour mon cas, je vais gagner plus de 200€ d'économie en rechargeant ma voiture électrique pendant les heures creuses a moins de 14 centimes le kWh contre 16 pour edf. La journée, il est a a moins de 18 centimes contre 21 chez EDF.
 
 ✔️ Fournisseur français reconnu
 ✔️ Service client de qualité
