@@ -24,7 +24,10 @@ L'offre novafix élec heures creuses est la plus intéressante. Les prix sont bl
 Pour mon cas, je vais gagner plus de 150€ d'économie par an en rechargeant ma voiture électrique pendant les heures creuses.
 
 ✔️ Fournisseur français reconnu
+
 ✔️ Service client de qualité
+
+
 ✔️ Énergie simple, sans prise de tête
 
 Le tarif réglementé est actuellement proposé par EDF, alors pourquoi payer plus cher pour la même électricité ?
