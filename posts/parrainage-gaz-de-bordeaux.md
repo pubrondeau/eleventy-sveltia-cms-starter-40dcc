@@ -2,7 +2,7 @@
 title: parrainage Gaz de Bordeaux
 date: 2026-03-01T15:42:00
 author: Emmanuel
-summary: Et oui gdb vend enfin de l'énergie
+summary: Et oui, Gaz de Bordeaux vends de l'électricité a tous les français
 tags:
   - Energie, électricité
 image: https://res.cloudinary.com/jekife/image/upload/v1772377933/parrainage_gaz_de_bordeaux_rd1ejd.jpg
