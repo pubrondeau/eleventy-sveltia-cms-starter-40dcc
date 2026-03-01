@@ -10,4 +10,4 @@ description: A sample Blog index listing all posts.
 layout: layouts/blog.njk
 ---
 
-lVous trouverez ici les meilleures offres de parrainage testées et validées par ces [ma chère et tendre et moi](https://jekife.netlify.app/authors/)
+Vous trouverez ici les meilleures offres de parrainage testées et validées par [ma chère et tendre et moi](https://jekife.netlify.app/authors/)
