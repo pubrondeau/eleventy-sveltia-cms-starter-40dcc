@@ -15,10 +15,16 @@ Passe à l’électricité moins chère avec Gaz de Bordeaux ! ⚡
 Tu veux réduire ta facture d’électricité sans changer tes habitudes ?
 
 💡 Pourquoi choisir Gaz de Bordeaux ?
+
+
 ✔️ -16% sur le prix du kWh par rapport au tarif réglementé
 
 ✔️ Fournisseur français reconnu
+
+
 ✔️ Service client de qualité
+
+
 ✔️ Énergie simple, sans prise de tête
 
 L'offre novafix élec heures creuses est la plus intéressante. Les prix sont bloqués 2 ans.
