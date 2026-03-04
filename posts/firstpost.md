@@ -40,12 +40,7 @@ C’est 100% gagnant-gagnant 🤝
 
 ***
 
-### 📌 Comment en profiter ?
-
-1. Me demander mon lien ou code de parrainage
-2. Ouvrir votre compte en ligne
-3. Effectuer les conditions demandées (souvent un premier versement + utilisation de la carte)
-4. Recevoir votre prime 💰
+### 📌 Comment en profiter?
 
 ***
 
