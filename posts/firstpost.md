@@ -49,4 +49,4 @@ C’est 100% gagnant-gagnant 🤝
 
 ***
 
-Si vous avez des questions sur l’ouverture de compte ou les conditions, je peux vous guider 😊
+Code parrain : 13112908
