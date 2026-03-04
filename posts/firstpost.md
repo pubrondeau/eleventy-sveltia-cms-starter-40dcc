@@ -18,7 +18,7 @@ description: This is a sample meta description. If one is not present in your pa
 Vous cherchez une banque en ligne simple, performante et sans frais inutiles ?
 **Fortuneo** est l’une des banques en ligne les plus reconnues en France, filiale du groupe Crédit Mutuel Arkéa.
 
-### 🚀 Pourquoi choisir Fortuneo ?
+### 🚀 Pourquoi choisir Fortuneo ? 160€ offerts
 
 * ✅ Carte bancaire **gratuite** (selon conditions)
 * ✅ **Aucun frais** de tenue de compte
