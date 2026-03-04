@@ -31,7 +31,7 @@ Vous cherchez une banque en ligne simple, performante et sans frais inutiles ?
 
 ## 🎁 Offre de Parrainage
 
-En utilisant mon **code de parrainage**, vous bénéficiez :
+En utilisant mon **code de parrainage : 13112908**, vous bénéficiez :
 
 💸 **D’une prime de bienvenue pouvant aller jusqu’à 160** (selon l’offre en cours)
 🎉 Et moi aussi je reçois une prime de parrainage !
