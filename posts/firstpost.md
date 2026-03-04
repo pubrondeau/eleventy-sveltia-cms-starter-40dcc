@@ -33,7 +33,7 @@ Vous cherchez une banque en ligne simple, performante et sans frais inutiles ?
 
 En utilisant mon **code de parrainage**, vous bénéficiez :
 
-💸 **D’une prime de bienvenue pouvant aller jusqu’à 80€** (selon l’offre en cours)
+💸 **D’une prime de bienvenue pouvant aller jusqu’à 160** (selon l’offre en cours)
 🎉 Et moi aussi je reçois une prime de parrainage !
 
 C’est 100% gagnant-gagnant 🤝
