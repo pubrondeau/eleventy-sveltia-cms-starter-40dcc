@@ -2,7 +2,7 @@
 title: parrainage fortuneo
 date: 2026-02-21T15:39:00
 author: Emmanuel
-summary: Choisir une banque en ligne digne de confiance, qualité de service irréprochable, tarifs tout à zéro.
+summary: Choisir une banque en ligne digne de confiance, qualité de service irréprochable, tarifs tout à zéro. 160€ offerts.
 tags:
   - Banque
   - Carte bancaire
@@ -18,7 +18,7 @@ description: This is a sample meta description. If one is not present in your pa
 Vous cherchez une banque en ligne simple, performante et sans frais inutiles ?
 **Fortuneo** est l’une des banques en ligne les plus reconnues en France, filiale du groupe Crédit Mutuel Arkéa.
 
-### 🚀 Pourquoi choisir Fortuneo ? 
+### 🚀 Pourquoi choisir Fortuneo ?
 
 ### 160€ offerts jusqu'au 31/03
 
