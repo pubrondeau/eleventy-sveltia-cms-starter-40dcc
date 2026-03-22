@@ -12,6 +12,10 @@ pagination:
     - authors
 permalink: /tags/{{ tag }}/
 layout: layouts/base.njk
+eleventyNavigation:
+  key: tags
+  title: Tags
+  order: 4
 eleventyComputed:
   title: "{{ tag | capitalize }}"
   description: "All posts from the Blog tagged with “{{ tag }}”"
