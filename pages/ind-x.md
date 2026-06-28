@@ -1,5 +1,5 @@
 ---
-title: ind x
+title: index
 date: 2026-06-28T10:21
 eleventyNavigation:
   key: index
